@@ -1,0 +1,15 @@
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+SQLAlchemy>=2.0
+psycopg2-binary
+python-dotenv
+streamlit
+pandas
+requests
+pgvector
+fastapi
+uvicorn
+authlib
+pydantic
